@@ -7,7 +7,9 @@ I wanted to try vector animation.
 - [Synfig studio](http://www.synfig.org/cms/ "It's great!")  
 - [Kdenlive](https://kdenlive.org/ "Also great!")
 
-_note_: The original image is in the repository.
+## Original image
+
+![Typing ninja](https://github.com/Eptwalabha/ninja-synfig/blob/master/typing-ninja.png?raw=true)
 
 ## Todo
 
@@ -21,3 +23,7 @@ _note_: The original image is in the repository.
 - Animate!
 - Edite on Kdenlive
 - Publish
+
+## Storyboard
+
+![Storyboard](https://github.com/Eptwalabha/ninja-synfig/blob/master/storyboard-typing-ninja.png?raw=true)
