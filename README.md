@@ -13,17 +13,22 @@ I wanted to try vector animation.
 
 ## Todo
 
-- **Vectorize the image** [done]
-- **Create StoryBoard** [done]
-- **Additonnal props**:
-  - **Kunaï** [done]
-  - **Log** [done]
-  - **Clouds** [done]
+- Vectorize the image [**done**]
+- Create StoryBoard [**done**]
+- Additonnal props:
+  - Kunaï [**done**]
+  - Log [**done**]
+  - Clouds [**done**]
   - Background
-- Animate!
+- Animate! [**done**]
+- Add Text
 - Edite on Kdenlive
 - Publish
 
 ## Storyboard
 
 ![Storyboard](https://github.com/Eptwalabha/ninja-synfig/blob/master/storyboard-typing-ninja.png?raw=true)
+
+## Progress so far
+
+![Rendered](https://github.com/Eptwalabha/ninja-synfig/blob/master/ninja.gif?raw=true)
