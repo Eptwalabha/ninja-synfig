@@ -9,14 +9,16 @@ I wanted to try vector animation.
 
 ## Original image
 
+_note_: I am not the creator.  
 ![Typing ninja](https://github.com/Eptwalabha/ninja-synfig/blob/master/typing-ninja.png?raw=true)
+
 
 ## Todo
 
 - Vectorize the image [**done**]
 - Create StoryBoard [**done**]
 - Additonnal props:
-  - Kunaï [**done**]
+  - KunaÃ¯ [**done**]
   - Log [**done**]
   - Clouds [**done**]
   - Background
