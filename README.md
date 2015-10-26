@@ -21,10 +21,11 @@ _note_: I am not the creator.
   - Kunaï [**done**]
   - Log [**done**]
   - Clouds [**done**]
-  - Background
+  - Background [**done**]
 - Animate! [**done**]
-- Add Text
-- Edite on Kdenlive
+- Add Text [**done**]
+- Edite on Kdenlive [**done**]
+- Add sound to the movie
 - Publish
 
 ## Storyboard
