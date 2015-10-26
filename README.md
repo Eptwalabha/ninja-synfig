@@ -26,7 +26,7 @@ _note_: I am not the creator.
 - Add Text [**done**]
 - Edite on Kdenlive [**done**]
 - Add sound to the movie
-- Publish
+- Publish [**done**]
 
 ## Storyboard
 
@@ -34,4 +34,4 @@ _note_: I am not the creator.
 
 ## Progress so far
 
-![Rendered](https://github.com/Eptwalabha/ninja-synfig/blob/master/ninja.gif?raw=true)
+[On Youtube](https://youtu.be/D5WAKeBmwP0 "link to the video")
