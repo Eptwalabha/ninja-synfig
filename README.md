@@ -9,7 +9,7 @@ I wanted to try vector animation.
 
 ## Original image
 
-_note_: I am not the creator.  
+_note_: I am not the creator of this image.  
 ![Typing ninja](https://github.com/Eptwalabha/ninja-synfig/blob/master/typing-ninja.png?raw=true)
 
 
@@ -25,7 +25,7 @@ _note_: I am not the creator.
 - Animate! [**done**]
 - Add Text [**done**]
 - Edite on Kdenlive [**done**]
-- Add sound to the movie
+- Add sound to the animation
 - Publish [**done**]
 
 ## Storyboard
